@@ -8,7 +8,27 @@
     background-color: #C1B5AD;
   }
 
-  #map {
+  /* #map {
     height: 100vh;
     width: 100vw;
+  } */
+
+  #map {
+    height: 50em;
+    width: auto;
+  }
+
+  header {
+      font-size: 30px;
+      padding: 10px;
+  }
+
+  .container {
+      display: flex;
+      flex-flow: row wrap;
+  }
+
+  .item {
+      /* width: 5em;
+      height: 5em; */
   }
